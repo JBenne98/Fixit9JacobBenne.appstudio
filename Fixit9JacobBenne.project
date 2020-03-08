@@ -41,6 +41,30 @@
             "membership",
             "membership.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "MadLibs",
+            "MadLibs.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "MadlibsMsg",
+            "MadlibsMsg.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABFourControls",
+            "ABFourControls.json"
+          ]
         }
       ],
       "configxml": null,
@@ -61,7 +85,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "login",
+      "firstform": "MadLibs",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
