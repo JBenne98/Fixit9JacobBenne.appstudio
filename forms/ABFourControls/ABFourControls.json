@@ -14,27 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "ABFourControls",
         "Elements",
-        "inptFirstName.json"
+        "cbxFour.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "ABFourControls",
         "Elements",
-        "btn1.json"
+        "bcbThree.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "ABFourControls",
         "Elements",
-        "lblOutput.json"
+        "sgnTwo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "sldOne.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "lblMes.json"
       ]
     }
   ],
@@ -44,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "ABFourControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,8 +75,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
